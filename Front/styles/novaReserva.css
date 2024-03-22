@@ -1,0 +1,60 @@
+.navbar {
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.bg-body-tertiary {
+    background-color: #525151 !important;
+}
+
+/* Estilos para os links da barra de navegação */
+.navbar-nav .nav-item .nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+/* Estilos para o link ativo na barra de navegação */
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: bold;
+}
+
+/* Estilos para os links da barra de navegação ao passar o mouse */
+.navbar-nav .nav-item .nav-link:hover {
+    color: black;
+    font-weight: bold;
+}
+
+/* Estilos para o texto da marca da barra de navegação */
+.navbar-brand {
+    color: black !important;
+    font-weight: bold;
+}
+
+/* Estilos para o fundo do corpo */
+.bc-color {
+    background-color: whitesmoke;
+}
+
+/* Estilos para o contêiner do formulário */
+.form-container {
+    max-width: 600px; /* Largura máxima do contêiner */
+    margin: 50px auto; /* Centralizar o contêiner verticalmente e manter 50px de margem no topo */
+    padding: 20px; /* Espaçamento interno */
+}
+
+/* Estilos para o título do formulário */
+.form-container h1 {
+    text-align: center; /* Centralizar o texto */
+    margin-bottom: 20px; /* Margem inferior */
+}
+
+/* Estilos para os campos do formulário */
+.form-label {
+    font-weight: bold; /* Peso da fonte */
+}
+
+/* Estilos para o botão do formulário */
+.btn-primary {
+    width: 100%; /* Largura total */
+}

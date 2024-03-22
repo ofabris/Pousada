@@ -1,0 +1,19 @@
+.card {
+  margin-top: 50px;
+}
+
+.card-footer {
+  background-color: inherit;
+}
+
+.card-title {
+  color: #333;
+}
+
+.card-title-top {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #333;
+  letter-spacing: 1px;
+}
